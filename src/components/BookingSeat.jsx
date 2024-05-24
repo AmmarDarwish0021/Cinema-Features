@@ -1,6 +1,5 @@
 import { Button } from 'react-bootstrap';
 
-// eslint-disable-next-line react/prop-types
 const BookingSeat = ({ seatNumber, isSelected, onClick }) => {
   return (
     <Button
